@@ -11,7 +11,7 @@
         "settings": {
           "method": "aes-256-gcm",
           "password": "ChinaNumber_1",
-          "network": "tcp,udp",
+          "network": "ws",
           "level": 0
         }
       }
