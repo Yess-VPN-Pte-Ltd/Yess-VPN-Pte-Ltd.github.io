@@ -4,11 +4,11 @@
         "random": [
             {
                 "path":"inbounds.0.settings.password",
-                "set": "a172cf0d-ae89-42f3-8505-0c51dae293a1"
+                "set": ["a172cf0d-ae89-42f3-8505-0c51dae293a1"]
             },
             {
                 "path":"inbounds.0.settings.method",
-                "set": "aes-256-gcm"
+                "set": ["aes-256-gcm"]
             },
             {
                 "path":"inbounds.0.port",
