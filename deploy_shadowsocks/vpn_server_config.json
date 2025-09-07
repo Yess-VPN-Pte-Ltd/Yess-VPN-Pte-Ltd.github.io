@@ -13,10 +13,7 @@
           "password": "ChinaNumber_1",
 		  "network": "tcp,udp"
           "level": 0
-        },
-        "streamSettings": {
-			"network":"ws"
-		}
+        }
       }
     ],
     "outbounds": [
