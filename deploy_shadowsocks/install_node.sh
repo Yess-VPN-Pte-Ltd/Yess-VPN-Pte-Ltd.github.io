@@ -4,4 +4,5 @@ bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/
 wget https://Yess-VPN-Pte-Ltd.github.io/deploy_shadowsocks/config.json  -O -> /usr/local/etc/v2ray/config.json
 ufw enable
 ufw allow 80
+ufw allow 443
 ufw reload
