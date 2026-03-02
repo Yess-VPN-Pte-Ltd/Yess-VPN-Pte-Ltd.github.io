@@ -12,7 +12,7 @@
             },
             {
                 "path":"inbounds.0.port",
-                "set": [80]
+                "set": [443]
             }
         ]
     },
